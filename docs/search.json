@@ -33,44 +33,44 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Carol Ashcraft Resume",
+    "title": "Carol Ashcraft CV",
     "section": "",
-    "text": "BYU-Idaho Math Faculty in Academic Success and Tutoring Department\n\nashcraftc@byui.edu | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "BYU-Idaho Math Faculty in Academic Success and Tutoring Department\n\nashcraftc@byui.edu | Faculty Info page\n\n\n\nMath Study Center Director and Faculty at BYU-Idaho\n\n\nTeaching, Mathematics, Tutor Training\n\n\n\nStatus, Self-Efficacy, Python, Machine Learning\n\n\n\n\n2013-2015 Brigham Young University, Provo UT\n\nMA in Mathematics Education\n\n2007 - 2010 Brigham Young University - Idaho, Rexburg ID\n\nBS in Mathematics Education\n\n2004 - 2007 Oakdale High School, Oakdale CA\n\n\n\n2021 5 years of Service, Brigham Young University Idaho, Rexburg, Idaho\n\n\n\nAcademic and Peer Status in the Mathematical Life Stories of Students\nWise, Carol Ann. Brigham Young University,  2015.\n\nAccesible Here\n\nBYUI Math Tutor Training Website and materials\n\nAccesible Here\n\n\n\n\n2016-present Brigham University Idaho, Rexburg, ID\n\nMath Faculty\nMath Study Center Director\n\n2015-2016 Utah Valley University, Orem, UT\n\nDevelopmental math Faculty"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Carol Ashcraft Resume",
+    "title": "Carol Ashcraft CV",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Math Study Center Director and Faculty at BYU-Idaho\n\n\nTeaching, Mathematics, Tutor Training\n\n\n\nStatus, Self-Efficacy, Python, Machine Learning"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Carol Ashcraft Resume",
+    "title": "Carol Ashcraft CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "2013-2015 Brigham Young University, Provo UT\n\nMA in Mathematics Education\n\n2007 - 2010 Brigham Young University - Idaho, Rexburg ID\n\nBS in Mathematics Education\n\n2004 - 2007 Oakdale High School, Oakdale CA"
   },
   {
     "objectID": "resume.html#awards",
     "href": "resume.html#awards",
-    "title": "Carol Ashcraft Resume",
+    "title": "Carol Ashcraft CV",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "text": "2021 5 years of Service, Brigham Young University Idaho, Rexburg, Idaho"
   },
   {
     "objectID": "resume.html#publications",
     "href": "resume.html#publications",
-    "title": "Carol Ashcraft Resume",
+    "title": "Carol Ashcraft CV",
     "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+    "text": "Academic and Peer Status in the Mathematical Life Stories of Students\nWise, Carol Ann. Brigham Young University,  2015.\n\nAccesible Here\n\nBYUI Math Tutor Training Website and materials\n\nAccesible Here"
   },
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
-    "title": "Carol Ashcraft Resume",
+    "title": "Carol Ashcraft CV",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "2016-present Brigham University Idaho, Rexburg, ID\n\nMath Faculty\nMath Study Center Director\n\n2015-2016 Utah Valley University, Orem, UT\n\nDevelopmental math Faculty"
   },
   {
     "objectID": "Machine_Learning/project3.html",
@@ -300,9 +300,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Welcome to…",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "View “My Resume” above!\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html#title-2-header",
@@ -363,5 +363,12 @@
       "Story Telling",
       "Project 3"
     ]
+  },
+  {
+    "objectID": "index.html#view-my-resume-by-clicking-on-it-in-the-navigation-bar.",
+    "href": "index.html#view-my-resume-by-clicking-on-it-in-the-navigation-bar.",
+    "title": "Welcome to…",
+    "section": "",
+    "text": "MarkDown Basics"
   }
 ]

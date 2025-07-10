@@ -1,86 +1,86 @@
 ---
 layout: cv
-title: Carol Ashcraft Resume
+title: Carol Ashcraft CV
 ---
 # Carol Ashcraft
 BYU-Idaho Math Faculty in Academic Success and Tutoring Department
 
 <div id="webaddress">
 <a href="ashcraftc@byui.edu">ashcraftc@byui.edu</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.byui.edu/academic-success-and-tutoring/carol-ashcraft">Faculty Info page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Math Study Center Director and Faculty at BYU-Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Teaching, Mathematics, Tutor Training
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Status, Self-Efficacy, Python, Machine Learning
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2015`
+__Brigham Young University, Provo UT__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- MA in Mathematics Education
 
-- Sizar
+`2007 - 2010`
+__Brigham Young University - Idaho, Rexburg ID__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- BS in Mathematics Education
 
-- Fellow
+`2004 - 2007`
+__Oakdale High School, Oakdale CA__
+
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2021`
+5 years of Service, *Brigham Young University Idaho*, Rexburg, Idaho
 
-Associate, *French Academy of Science*, Paris, France
 
 
 
 ## Publications
+Academic and Peer Status in the Mathematical Life Stories of Students
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Wise, Carol Ann. Brigham Young University,  2015.
 
-### Journals
+<div id="webaddress">
+<a href="https://www.proquest.com/docview/2447002191?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses">Accesible Here</a>
+</div>
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+BYUI Math Tutor Training Website and materials
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+<div id="webaddress">
+<a href="https://sites.google.com/byui.edu/new-math-tutor-training/home">Accesible Here</a>
+</div>
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2016-present`
+__Brigham University Idaho__, Rexburg, ID
 
-- Warden
-- Minted coins
+- Math Faculty
+- Math Study Center Director
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2015-2016`
+__Utah Valley University__, Orem, UT
+
+- Developmental math Faculty
+
+
 
 
 
