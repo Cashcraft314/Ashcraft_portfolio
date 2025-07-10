@@ -3,10 +3,10 @@ layout: cv
 title: Carol Ashcraft Resume
 ---
 # Carol Ashcraft
-Physicist, Mathematician, Cambridge professor.
+BYU-Idaho Math Faculty in Academic Success and Tutoring Department
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="ashcraftc@byui.edu">ashcraftc@byui.edu</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
