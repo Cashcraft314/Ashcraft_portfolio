@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Carol Ashcraft Resume
 ---
-# Isaac Newton
+# Carol Ashcraft
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
